@@ -1,0 +1,2 @@
+set(lwr_controllers_MESSAGE_FILES "/home/marcin/kuka-lwr/src/lwr_controllers/msg/PoseRPY.msg;/home/marcin/kuka-lwr/src/lwr_controllers/msg/RPY.msg;/home/marcin/kuka-lwr/src/lwr_controllers/msg/MultiPriorityTask.msg;/home/marcin/kuka-lwr/src/lwr_controllers/msg/ArmState.msg;/home/marcin/kuka-lwr/src/lwr_controllers/msg/CartesianImpedancePoint.msg;/home/marcin/kuka-lwr/src/lwr_controllers/msg/Stiffness.msg")
+set(lwr_controllers_SERVICE_FILES "/home/marcin/kuka-lwr/src/lwr_controllers/srv/SetCartesianImpedanceCommand.srv")

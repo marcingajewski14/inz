@@ -1,0 +1,8 @@
+prefix=/home/marcin/kuka-lwr/devel
+
+Name: lwr_hw
+Description: Description of lwr_hw
+Version: 1.0.0
+Cflags: -I/home/marcin/kuka-lwr/src/lwr_hw/include
+Libs: -L/home/marcin/kuka-lwr/devel/lib -llwr_hw -llwr_hw_gazebo_plugin -lfriremote
+Requires: control_toolbox controller_interface controller_manager hardware_interface realtime_tools joint_limits_interface roscpp tf urdf cmake_modules pluginlib kdl_parser transmission_interface gazebo_dev gazebo_ros std_msgs
