@@ -1,0 +1,8 @@
+prefix=/home/marcin/kuka-lwr/install
+
+Name: moveit_ros_warehouse
+Description: Description of moveit_ros_warehouse
+Version: 1.0.1
+Cflags: -I/home/marcin/kuka-lwr/install/include
+Libs: -L/home/marcin/kuka-lwr/install/lib -lmoveit_warehouse
+Requires: moveit_ros_planning warehouse_ros

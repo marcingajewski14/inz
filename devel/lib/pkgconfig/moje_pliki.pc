@@ -1,0 +1,8 @@
+prefix=/home/marcin/kuka-lwr/devel
+
+Name: moje_pliki
+Description: Description of moje_pliki
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/marcin/kuka-lwr/devel/lib 
+Requires: 

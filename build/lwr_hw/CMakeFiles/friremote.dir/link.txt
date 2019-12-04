@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -std=c++11  -shared -Wl,-soname,libfriremote.so -o /home/marcin/kuka-lwr/devel/lib/libfriremote.so CMakeFiles/friremote.dir/src/fri/friremote.cpp.o CMakeFiles/friremote.dir/src/fri/friudp.cpp.o 

@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/marcin/kuka-lwr/build/lwr_hw/CMakeFiles/FRILibrary"
+		},
+		{
+			"file" : "/home/marcin/kuka-lwr/build/lwr_hw/CMakeFiles/FRILibrary.rule"
+		},
+		{
+			"file" : "/home/marcin/kuka-lwr/build/lwr_hw/CMakeFiles/FRILibrary-complete.rule"
+		},
+		{
+			"file" : "/home/marcin/kuka-lwr/build/lwr_hw/FRILibrary-prefix/src/FRILibrary-stamp/FRILibrary-install.rule"
+		},
+		{
+			"file" : "/home/marcin/kuka-lwr/build/lwr_hw/FRILibrary-prefix/src/FRILibrary-stamp/FRILibrary-mkdir.rule"
+		},
+		{
+			"file" : "/home/marcin/kuka-lwr/build/lwr_hw/FRILibrary-prefix/src/FRILibrary-stamp/FRILibrary-download.rule"
+		},
+		{
+			"file" : "/home/marcin/kuka-lwr/build/lwr_hw/FRILibrary-prefix/src/FRILibrary-stamp/FRILibrary-update.rule"
+		},
+		{
+			"file" : "/home/marcin/kuka-lwr/build/lwr_hw/FRILibrary-prefix/src/FRILibrary-stamp/FRILibrary-patch.rule"
+		},
+		{
+			"file" : "/home/marcin/kuka-lwr/build/lwr_hw/FRILibrary-prefix/src/FRILibrary-stamp/FRILibrary-configure.rule"
+		},
+		{
+			"file" : "/home/marcin/kuka-lwr/build/lwr_hw/FRILibrary-prefix/src/FRILibrary-stamp/FRILibrary-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"FRILibrary"
+		],
+		"name" : "FRILibrary"
+	}
+}

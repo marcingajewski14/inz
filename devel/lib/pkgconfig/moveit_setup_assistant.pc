@@ -1,0 +1,8 @@
+prefix=/home/marcin/kuka-lwr/devel
+
+Name: moveit_setup_assistant
+Description: Description of moveit_setup_assistant
+Version: 1.0.1
+Cflags: -I/home/marcin/kuka-lwr/src/moveit/moveit_setup_assistant/include
+Libs: -L/home/marcin/kuka-lwr/devel/lib -lmoveit_setup_assistant_tools
+Requires: moveit_ros_planning moveit_ros_visualization

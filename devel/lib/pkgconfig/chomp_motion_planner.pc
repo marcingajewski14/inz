@@ -1,0 +1,8 @@
+prefix=/home/marcin/kuka-lwr/devel
+
+Name: chomp_motion_planner
+Description: Description of chomp_motion_planner
+Version: 1.0.1
+Cflags: -I/home/marcin/kuka-lwr/src/moveit/moveit_planners/chomp/chomp_motion_planner/include
+Libs: -L/home/marcin/kuka-lwr/devel/lib -lchomp_motion_planner
+Requires: 

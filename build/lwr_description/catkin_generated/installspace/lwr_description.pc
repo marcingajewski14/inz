@@ -1,0 +1,8 @@
+prefix=/home/marcin/kuka-lwr/install
+
+Name: lwr_description
+Description: Description of lwr_description
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/marcin/kuka-lwr/install/lib 
+Requires: 
